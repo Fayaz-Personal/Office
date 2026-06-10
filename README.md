@@ -236,8 +236,7 @@ To simplify the study abroad journey for undergraduate students by providing all
 
 ## 👨‍💻 Developed By
 
-Fayaz
+Fayaz Ashwin gifta simirana
 
-Final Year Project
 Study Abroad Navigator
 2026
