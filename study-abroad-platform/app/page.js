@@ -10,12 +10,13 @@ export default function Home() {
           </h1>
 
           <div className="space-x-6">
-            <a href="#" className="hover:text-gray-200">Home</a>
+            <a href="/" className="hover:text-gray-200">Home</a>
             <a href="/universities" className="hover:text-gray-200">Universities</a>
             <a href="/scholarship" className="hover:text-gray-200">Scholarships</a>
             <a href="/loans" className="hover:text-gray-200">Loans</a>
             <a href="/chatbot" className="hover:text-gray-200">AI Assistant</a>
             <a href="/login" className="hover:text-gray-200">Login</a>
+            <a href="/profile" className="hover:text-gray-200">Profile</a>
           </div>
         </div>
       </nav>
