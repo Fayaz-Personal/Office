@@ -14,6 +14,7 @@ export default function Home() {
             <a href="/universities" className="hover:text-gray-200">Universities</a>
             <a href="/scholarship" className="hover:text-gray-200">Scholarships</a>
             <a href="/loans" className="hover:text-gray-200">Loans</a>
+            <a href="/chatbot" className="hover:text-gray-200">AI Assistant</a>
             <a href="/login" className="hover:text-gray-200">Login</a>
           </div>
         </div>
