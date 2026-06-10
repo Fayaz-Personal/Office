@@ -11,7 +11,7 @@ export default function Home() {
 
           <div className="space-x-6">
             <a href="#" className="hover:text-gray-200">Home</a>
-            <a href="#" className="hover:text-gray-200">Universities</a>
+            <a href="/universities" className="hover:text-gray-200">Universities</a>
             <a href="#" className="hover:text-gray-200">Scholarships</a>
             <a href="#" className="hover:text-gray-200">Loans</a>
             <a href="/login" className="hover:text-gray-200">Login</a>
